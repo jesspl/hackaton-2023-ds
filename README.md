@@ -33,3 +33,9 @@ Para instalar este proyecto, te recomendamos seguir estos pasos:
 * `source .venv/Scripts/activate`
 * `pip install -r requirements.txt`
 * `pip freeze > requirements.txt`
+
+## Autores
+* Valentina Guevara Arango
+* Christian Velazquez Salazar
+* Jessica Lopez Lopez
+* Laura Sanchez Giraldo
